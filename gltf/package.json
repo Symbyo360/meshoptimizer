@@ -1,6 +1,9 @@
 {
 	"name": "gltfpack",
 	"version": "0.15.2",
+	"engines": {
+		"node": ">=22.23.4 <23"
+	},
 	"description": "A command-line tool that can optimize glTF files for size and speed",
 	"author": "Arseny Kapoulkine",
 	"license": "MIT",
